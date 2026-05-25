@@ -30,6 +30,9 @@ Python · Flask · Anthropic Claude API · HTML/CSS/JS · python-evtx
 5. `python app.py`
 6. Open `http://127.0.0.1:5000`
 
+## Sample Report
+[📄 View Sample Incident Report (PDF)](samples/AI%20Threat%20Hunt%20Analyst.pdf)
+
 ## Screenshots
 
 ### UI — Upload or Paste Logs
@@ -46,6 +49,9 @@ Python · Flask · Anthropic Claude API · HTML/CSS/JS · python-evtx
 
 ### IOC Table
 ![IOCs](screenshots/iocs.png)
+
+### Analyst Notes
+![Analyst Notes](screenshots/analyst_notes.png)
 
 ### Recommendations + False Positive Assessment
 ![Recommendations](screenshots/recommendations.png)
